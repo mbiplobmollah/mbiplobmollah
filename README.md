@@ -18,7 +18,7 @@
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="www.linkedin.com/in/mohammad-biplob-mollah" target="_blank">
+                    <a href="https://www.linkedin.com/in/mohammad-biplob-mollah/" target="_blank">
                         <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="40" height="40"
                             alt="Linkedin" />
                         <br>Linkedin
