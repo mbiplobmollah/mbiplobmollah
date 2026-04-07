@@ -1,113 +1,75 @@
 <h1 align="center">Hi 👋, I'm Mohammad Biplob Mollah</h1>
-<h3 align="center"> Web Developer </h3>
+<h3 align="center">Software Quality Assurance (SQA) Enthusiast | Web Developer</h3>
 
-- I’m currently learning **MERN STACK**
-- How to reach me **biplobmollah16@gmail.com**
+---
 
-###
+### 🚀 About Me
+- 🔍 Focused on **Software Quality Assurance & Testing**
+- 🧪 Skilled in **API Testing & Automation**
+- 📚 Continuously learning and improving testing practices
+- 💡 Strong understanding of application behavior from frontend experience
+- 📫 Reach me at: **biplobmollah16@gmail.com**
 
-<h3 align="left"><samp>Connect with me: </samp></h3>
-    <div style="display: flex; align-items: flex-start; align: center">
-        <table align="left">
-            <tr>
-                <td align="center" width="100">
-                    <a href="https://www.facebook.com/prince.rodro.52/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="icon" width="40" height="40"
-                            alt="Facebook" />
-                        <br>Facebook
-                    </a>
-                </td>
-                <td align="center" width="100">
-                    <a href="https://www.linkedin.com/in/mohammad-biplob-mollah/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="40" height="40"
-                            alt="Linkedin" />
-                        <br>Linkedin
-                    </a>
-                </td>
-                </tr>
-        </table>
-    </div>
+---
 
-<br><br><br><br>          
+### 🧪 SQA Skills & Tools
+- **API Testing:** Postman, Newman  
+- **Testing Types:** Functional Testing, Regression Testing, Negative Testing  
+- **Concepts:** Test Case Design, Bug Reporting, API Validation, Schema Validation  
+- **Automation:** Newman CLI, Postman Scripts (JavaScript)  
+- **Tools:** Git, GitHub, Node.js  
 
+---
 
+### 💻 Development Skills
+- HTML, CSS, JavaScript, React  
+- Understanding of UI behavior & API integration  
 
-###
+---
 
-<h3 align="left"></h3>
-<h3 align="left"><samp>🛠Languages and Tools: </samp></h3>
-    <div style="display: flex; align-items: flex-start; align: center">
-        <table align="left">
-            <tr>
-                <td align="center" width="100">
-                    <a href="https://www.java.com/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="40" height="40" alt="JavaScript" />
-                        <br>JavaScript
-                    </a>
-                </td>
-                <td align="center" width="100">
-                    <a href="https://www.php.net/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="40" height="40" alt="C" />
-                        <br>C
-                    </a>
-                </td>
-                    <td align="center" width="100">
-                    <a href="https://www.java.com/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" alt="HTML" />
-                        <br>HTML
-                    </a>
-                </td>
-                    <td align="center" width="100">
-                    <a href="https://www.java.com/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" alt="CSS" />
-                        <br>CSS
-                    </a>
-                </td>
-                <td align="center" width="100">
-                    <a href="https://developer.android.com/" target="_blank">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="icon" width="40" height="40"
-                            alt="Android" />
-                        <br>Android
-                    </a>
-                </td>
-                <td align="center" width="100">
-                    <a href="https://dart.dev/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="40" height="40" alt="Dart" />
-                        <br>Dart
-                    </a>
-                </td>
-                <td align="center" width="100">
-                    <a href="https://flutter.dev/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="40" height="40"
-                            alt="Flutter" />
-                        <br>Flutter
-                    </a>
-                </td>
-                <td align="center" width="100">
-                    <a href="https://git-scm.com/" target="_blank">
-                        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="40" height="40" alt="Git" />
-                        <br>Git
-                    </a>
-                </td>
-            </tr>
-        </table>
-    </div>
+### 📌 Featured Project
 
-<br><br><br><br>
+#### 🧪 Student Management System – API Testing
+- Automated API testing using **Postman + Newman**
+- Covered:
+  - ✅ Authentication Testing  
+  - ✅ CRUD Operations  
+  - ✅ Filtering & Validation  
+  - ✅ Negative Testing (invalid login, unauthorized access, missing fields)  
+- 🔐 Dynamic token handling using environment variables  
+- 📊 Generated HTML reports using Newman  
+- 📏 Schema validation using tv4  
 
+---
 
+### 🔗 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mohammad-biplob-mollah/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+<a href="https://www.facebook.com/prince.rodro.52/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40"/>
+</a>
+</p>
 
-###
+---
+
+### 🛠 Languages and Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=javascript,html,css,react,git,nodejs,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbiplobmollah&locale=en&layout=compact&card_width=320&langs_count=6&theme=nightowl&order=2"
-              height="165" alt="languages graph" />
-    <img src= "https://github-readme-stats.vercel.app/api?username=mbiplobmollah&theme=nightowl&show_icons=true&order=1" height="165" alt="stats graph">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mbiplobmollah&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mbiplobmollah&layout=compact&theme=tokyonight" height="165"/>
 </div>
 
+---
 
+### 🔥 GitHub Streak
 <div align="center">
-      <img src="https://streak-stats.demolab.com?user=mbiplobmollah&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3"
-            height="170" width="500" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=mbiplobmollah&theme=tokyonight&cache_seconds=1800" />
 </div>
-
-
