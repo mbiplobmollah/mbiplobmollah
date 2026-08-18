@@ -64,10 +64,10 @@ Structured API test suite covering Authentication and Teacher Management endpoin
 
 ### GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mbiplobmollah&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=3D3D3D&icon_color=000000" height="165"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mbiplobmollah&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=3D3D3D" height="165"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mbiplobmollah&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
